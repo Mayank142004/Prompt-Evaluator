@@ -20,7 +20,7 @@ pip install -r requirements.txt
 4. Copy the key
 
 ### 3. Set the environment variable
-***Add api key in environment varible or in .env file *
+**Add api key in environment varible or in .env file **
 **Windows (PowerShell):**
 ```powershell
 $env:GROQ_API_KEY = "gsk_your_key_here"
