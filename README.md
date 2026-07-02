@@ -3,6 +3,9 @@
 A CLI tool that evaluates the quality of LLM prompts against a rigorous 8-dimension
 rubric, powered by the Groq API (LLaMA 3.3 70B Versatile).
 
+## Demo Video
+Watch the [Prompt Evaluator Demo Video](https://drive.google.com/file/d/1Db3lXivsEz7U7c60sjVCpBbg9yRYTCOW/view?usp=sharing) to see the tool in action.
+
 ## Quick Start
 
 ### 1. Install dependencies
